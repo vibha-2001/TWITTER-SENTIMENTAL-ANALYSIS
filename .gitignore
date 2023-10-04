@@ -1,0 +1,11 @@
+embedding_vectors/glove.6B.50d.txt
+*.pyc
+*.h5
+.idea/Sentiment_Detection_ML_Pipeline.iml
+*.iml
+.idea/misc.xml
+.idea/workspace.xml
+Trained_Models/LSTM_model_Final.h5
+Trained_Models/LSTM_model_Final.h5
+*.h5
+.idea/*
